@@ -1,0 +1,15 @@
+{
+  "name": "simple_number2word_api",
+  "version": "1.0.0",
+  "description": "Converts numbers to words",
+  "main": "index.js",
+  "scripts": {
+    "start": "PORT=8080 node index.js",
+    "test": "mocha **/*.spec.js"
+  },
+  "author": "Alex Rodygin",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.0"
+  }
+}
