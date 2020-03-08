@@ -9,4 +9,4 @@ It converts numbers to word representation
 
 Does not need to install anything to run (other than Node) - use 'npm start'
 
-To test install mocha and chai: 'npm ci' or 'npm install' then use 'npm test'
+Unit tests provided with mocha and chai: 'npm ci' or 'npm install' then use 'npm test'
