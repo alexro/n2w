@@ -8,4 +8,4 @@ NodeJS app hosts 2 endpoints:
 
 Does not need to install anything to run (other than Node) - use 'npm start'
 
-Tests run using mocha and chai - use 'npm test'
+To test install mocha and chai: 'npm ci' or 'npm install' then use 'npm test'
